@@ -1,0 +1,578 @@
+{
+  "type": "Topology",
+  "arcs": [],
+  "objects": {
+    "airports": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            16.560767964212864,
+            48.119756305253766
+          ],
+          "properties": {
+            "scalerank": 2,
+            "featurecla": "Airport",
+            "type": "major",
+            "name": "Vienna Schwechat Int'l",
+            "abbrev": "VIE",
+            "location": "terminal",
+            "gps_code": "LOWW",
+            "iata_code": "VIE",
+            "wikipedia": "http://en.wikipedia.org/wiki/Vienna_International_Airport",
+            "natlscale": 150
+          }
+        },
+        {
+            "type": "Point",
+            "coordinates": [
+              8.571822869076076,
+              50.05067708952074
+            ],
+            "properties": {
+              "scalerank": 2,
+              "featurecla": "Airport",
+              "type": "major",
+              "name": "Frankfurt Int'l",
+              "abbrev": "FRA",
+              "location": "terminal",
+              "gps_code": "EDDF",
+              "iata_code": "FRA",
+              "wikipedia": "http://en.wikipedia.org/wiki/Frankfurt_Airport",
+              "natlscale": 150
+            }
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              12.250100897363827,
+              41.795078630739425
+            ],
+            "properties": {
+              "scalerank": 2,
+              "featurecla": "Airport",
+              "type": "major",
+              "name": "Leonardo da Vinci Int'l",
+              "abbrev": "FCO",
+              "location": "terminal",
+              "gps_code": "LIRF",
+              "iata_code": "FCO",
+              "wikipedia": "http://en.wikipedia.org/wiki/Leonardo_da_Vinci_Airport",
+              "natlscale": 150
+            }
+          },
+        {
+            "type": "Point",
+            "coordinates": [
+              11.099103276258118,
+              60.193578317138616
+            ],
+            "properties": {
+              "scalerank": 2,
+              "featurecla": "Airport",
+              "type": "major",
+              "name": "Oslo Gardermoen",
+              "abbrev": "OSL",
+              "location": "terminal",
+              "gps_code": "ENGM",
+              "iata_code": "OSL",
+              "wikipedia": "http://en.wikipedia.org/wiki/Gardermoen_Air_Station",
+              "natlscale": 150
+            }
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              -3.569026654588628,
+              40.46812827339225
+            ],
+            "properties": {
+              "scalerank": 2,
+              "featurecla": "Airport",
+              "type": "major",
+              "name": "Madrid Barajas",
+              "abbrev": "MAD",
+              "location": "terminal",
+              "gps_code": "LEMD",
+              "iata_code": "MAD",
+              "wikipedia": "http://en.wikipedia.org/wiki/Madrid_Barajas_International_Airport",
+              "natlscale": 150
+            }
+          },
+         {
+            "type": "Point",
+            "coordinates": [
+              17.930729901691585,
+              59.65112033973721
+            ],
+            "properties": {
+              "scalerank": 2,
+              "featurecla": "Airport",
+              "type": "major",
+              "name": "Arlanda",
+              "abbrev": "ARN",
+              "location": "terminal",
+              "gps_code": "ESSA",
+              "iata_code": "ARN",
+              "wikipedia": "http://en.wikipedia.org/wiki/Stockholm-Arlanda_Airport",
+              "natlscale": 150
+            }
+          },
+          {
+          "type": "Point",
+          "coordinates": [
+            23.94711605540731,
+            37.93623312992537
+          ],
+          "properties": {
+            "scalerank": 2,
+            "featurecla": "Airport",
+            "type": "major",
+            "name": "Eleftherios Venizelos Int'l",
+            "abbrev": "ATH",
+            "location": "terminal",
+            "gps_code": "LGAV",
+            "iata_code": "ATH",
+            "wikipedia": "http://en.wikipedia.org/wiki/Athens_International_Airport",
+            "natlscale": 150
+          }
+        },
+         {
+              "type": "Point",
+              "coordinates": [
+                12.64935086845077,
+                55.628501722152784
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Copenhagen",
+                "abbrev": "CPH",
+                "location": "terminal",
+                "gps_code": "EKCH",
+                "iata_code": "CPH",
+                "wikipedia": "http://en.wikipedia.org/wiki/Copenhagen_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                26.085725158776373,
+                44.49704145597203
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "mid",
+                "name": "Aeroportul National Bucuresti-Baneasa",
+                "abbrev": "BBU",
+                "location": "terminal",
+                "gps_code": "LRBS",
+                "iata_code": "BBU",
+                "wikipedia": "http://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                19.26223016778808,
+                47.43327426924795
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Ferihegy",
+                "abbrev": "BUD",
+                "location": "terminal",
+                "gps_code": "LHBP",
+                "iata_code": "BUD",
+                "wikipedia": "http://en.wikipedia.org/wiki/Budapest_Ferihegy_International_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                -6.243884910371394,
+                53.42700828497004
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Dublin",
+                "abbrev": "DUB",
+                "location": "terminal",
+                "gps_code": "EIDW",
+                "iata_code": "DUB",
+                "wikipedia": "http://en.wikipedia.org/wiki/Dublin_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                -147.86572112079517,
+                64.81809811173692
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Fairbanks Int'l",
+                "abbrev": "FAI",
+                "location": "terminal",
+                "gps_code": "PAFA",
+                "iata_code": "FAI",
+                "wikipedia": "http://en.wikipedia.org/wiki/Fairbanks_International_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                10.005647830925001,
+                53.63200116408658
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Hamburg",
+                "abbrev": "HAM",
+                "location": "terminal",
+                "gps_code": "EDDH",
+                "iata_code": "HAM",
+                "wikipedia": "http://en.wikipedia.org/wiki/Hamburg_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                11.788062719243687,
+                48.35383739616085
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Franz-Josef-Strauss",
+                "abbrev": "MUC",
+                "location": "terminal",
+                "gps_code": "EDDM",
+                "iata_code": "MUC",
+                "wikipedia": "http://en.wikipedia.org/wiki/Munich_International_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                20.97272633835865,
+                52.171026749259035
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Okecie Int'l",
+                "abbrev": "WAW",
+                "location": "terminal",
+                "gps_code": "EPWA",
+                "iata_code": "WAW",
+                "wikipedia": "http://en.wikipedia.org/wiki/Warsaw_Frederic_Chopin_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                8.562212795347646,
+                47.45238950649155
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Zurich Int'l",
+                "abbrev": "ZRH",
+                "location": "terminal",
+                "gps_code": "LSZH",
+                "iata_code": "ZRH",
+                "wikipedia": "http://en.wikipedia.org/wiki/Z%C3%BCrich_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                4.454373629816502,
+                50.45712965495668
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "mid",
+                "name": "Gosselies",
+                "abbrev": "CRL",
+                "location": "terminal",
+                "gps_code": "EBCI",
+                "iata_code": "CRL",
+                "wikipedia": "http://en.wikipedia.org/wiki/Brussels_South_Charleroi_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                11.769482859365427,
+                48.349796407837665
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Munich Freight Terminal",
+                "abbrev": "MUCf",
+                "location": "freight",
+                "gps_code": "EDDMf",
+                "iata_code": "MUCf",
+                "wikipedia": "http://en.wikipedia.org/wiki/Munich_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                2.078003349812917,
+                41.30315527974634
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Barcelona",
+                "abbrev": "BCN",
+                "location": "terminal",
+                "gps_code": "LEBL",
+                "iata_code": "BCN",
+                "wikipedia": "http://en.wikipedia.org/wiki/Barcelona_International_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                4.764376932328117,
+                52.30893238898217
+              ],
+              "properties": {
+                "scalerank": 2,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Schiphol",
+                "abbrev": "AMS",
+                "location": "terminal",
+                "gps_code": "EHAM",
+                "iata_code": "AMS",
+                "wikipedia": "http://en.wikipedia.org/wiki/Amsterdam_Schiphol_Airport",
+                "natlscale": 150
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                -0.4531566520633094,
+                51.47099587999384
+              ],
+              "properties": {
+                "scalerank": 2,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "London Heathrow",
+                "abbrev": "LHR",
+                "location": "parking",
+                "gps_code": "EGLL",
+                "iata_code": "LHR",
+                "wikipedia": "http://en.wikipedia.org/wiki/London_Heathrow_Airport",
+                "natlscale": 150
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                2.5418677673945727,
+                49.01442009693855
+              ],
+              "properties": {
+                "scalerank": 2,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Charles de Gaulle Int'l",
+                "abbrev": "CDG",
+                "location": "terminal",
+                "gps_code": "LFPG",
+                "iata_code": "CDG",
+                "wikipedia": "http://en.wikipedia.org/wiki/Charles_de_Gaulle_International_Airport",
+                "natlscale": 150
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                24.968207866591406,
+                60.31871589129821
+              ],
+              "properties": {
+                "scalerank": 2,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Helsinki Vantaa",
+                "abbrev": "HEL",
+                "location": "terminal",
+                "gps_code": "EFHK",
+                "iata_code": "HEL",
+                "wikipedia": "http://en.wikipedia.org/wiki/Helsinki-Vantaa_Airport",
+                "natlscale": 150
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                13.2903090925074,
+                52.55442870441009
+              ],
+              "properties": {
+                "scalerank": 2,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Berlin-Tegel Int'l",
+                "abbrev": "TXL",
+                "location": "terminal",
+                "gps_code": "EDDT",
+                "iata_code": "TXL",
+                "wikipedia": "http://en.wikipedia.org/wiki/Berlin-Tegel_International_Airport",
+                "natlscale": 150
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                37.41596903484135,
+                55.96644717251199
+              ],
+              "properties": {
+                "scalerank": 2,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Sheremtyevo",
+                "abbrev": "SVO",
+                "location": "terminal",
+                "gps_code": "UUEE",
+                "iata_code": "SVO",
+                "wikipedia": "http://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+                "natlscale": 150
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                2.367379127837731,
+                48.73130304580517
+              ],
+              "properties": {
+                "scalerank": 4,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Paris Orly",
+                "abbrev": "ORY",
+                "location": "parking",
+                "gps_code": "LFPO",
+                "iata_code": "ORY",
+                "wikipedia": "http://en.wikipedia.org/wiki/Orly_Airport_(Paris)",
+                "natlscale": 50
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                -6.243884910371394,
+                53.42700828497004
+              ],
+              "properties": {
+                "scalerank": 3,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Dublin",
+                "abbrev": "DUB",
+                "location": "terminal",
+                "gps_code": "EIDW",
+                "iata_code": "DUB",
+                "wikipedia": "http://en.wikipedia.org/wiki/Dublin_Airport",
+                "natlscale": 75
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                11.099103276258118,
+                60.193578317138616
+              ],
+              "properties": {
+                "scalerank": 2,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Oslo Gardermoen",
+                "abbrev": "OSL",
+                "location": "terminal",
+                "gps_code": "ENGM",
+                "iata_code": "OSL",
+                "wikipedia": "http://en.wikipedia.org/wiki/Gardermoen_Air_Station",
+                "natlscale": 150
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                17.930729901691585,
+                59.65112033973721
+              ],
+              "properties": {
+                "scalerank": 2,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Arlanda",
+                "abbrev": "ARN",
+                "location": "terminal",
+                "gps_code": "ESSA",
+                "iata_code": "ARN",
+                "wikipedia": "http://en.wikipedia.org/wiki/Stockholm-Arlanda_Airport",
+                "natlscale": 150
+              }
+            },
+            {
+              "type": "Point",
+              "coordinates": [
+                30.30709764546479,
+                59.805406160189726
+              ],
+              "properties": {
+                "scalerank": 4,
+                "featurecla": "Airport",
+                "type": "major",
+                "name": "Pulkovo 2",
+                "abbrev": "LED",
+                "location": "terminal",
+                "gps_code": "ULLI",
+                "iata_code": "LED",
+                "wikipedia": "http://en.wikipedia.org/wiki/Pulkovo_Airport",
+                "natlscale": 50
+              }
+            }
+          ]

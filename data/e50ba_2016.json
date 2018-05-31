@@ -1,0 +1,502 @@
+[
+  {
+    "rank_2016": 1,
+    "country": "United Kingdom",
+    "airport": "Heathrow Airport",
+    "city_served": "London",
+    "passengers_2015": "74,985,475",
+    "passengers_2016": "75,711,130",
+    "millions": 75,
+    "change_2015_2016": 0.01
+  },
+  {
+    "rank_2016": 2,
+    "country": "France",
+    "airport": "Charles de Gaulle Airport",
+    "city_served": "Paris",
+    "passengers_2015": "65,766,986",
+    "passengers_2016": "65,933,145",
+    "millions": 65,
+    "change_2015_2016": 0.003
+  },
+  {
+    "rank_2016": 3,
+    "country": "Netherlands",
+    "airport": "Amsterdam Airport Schiphol",
+    "city_served": "Amsterdam",
+    "passengers_2015": "58,284,848",
+    "passengers_2016": "63,625,664",
+    "millions": 63,
+    "change_2015_2016": 0.092
+  },
+  {
+    "rank_2016": 4,
+    "country": "Germany",
+    "airport": "Frankfurt Airport",
+    "city_served": "Frankfurt",
+    "passengers_2015": "61,032,022",
+    "passengers_2016": "60,786,937",
+    "millions": 60,
+    "change_2015_2016": -0.004
+  },
+  {
+    "rank_2016": 5,
+    "country": "Turkey",
+    "airport": "Istanbul Atat�rk Airport",
+    "city_served": "Istanbul",
+    "passengers_2015": "61,322,729",
+    "passengers_2016": "60,415,470",
+    "millions": 60,
+    "change_2015_2016": -0.015
+  },
+  {
+    "rank_2016": 6,
+    "country": "Spain",
+    "airport": "Adolfo Su�rez Madrid%u2013Barajas Airport",
+    "city_served": "Madrid",
+    "passengers_2015": "46,824,838",
+    "passengers_2016": "50,420,583",
+    "millions": 50,
+    "change_2015_2016": 0.077
+  },
+  {
+    "rank_2016": 7,
+    "country": "Spain",
+    "airport": "Barcelona El Prat Airport",
+    "city_served": "Barcelona",
+    "passengers_2015": "39,711,237",
+    "passengers_2016": "44,154,693",
+    "millions": 44,
+    "change_2015_2016": 0.112
+  },
+  {
+    "rank_2016": 8,
+    "country": "United Kingdom",
+    "airport": "Gatwick Airport",
+    "city_served": "London",
+    "passengers_2015": "40,269,087",
+    "passengers_2016": "43,119,628",
+    "millions": 43,
+    "change_2015_2016": 0.071
+  },
+  {
+    "rank_2016": 9,
+    "country": "Germany",
+    "airport": "Munich Airport",
+    "city_served": "Munich",
+    "passengers_2015": "40,981,522",
+    "passengers_2016": "42,261,309",
+    "millions": 42,
+    "change_2015_2016": 0.031
+  },
+  {
+    "rank_2016": 10,
+    "country": "Italy",
+    "airport": "Leonardo da Vinci%u2013Fiumicino Airport",
+    "city_served": "Rome",
+    "passengers_2015": "40,463,208",
+    "passengers_2016": "41,744,769",
+    "millions": 41,
+    "change_2015_2016": 0.032
+  },
+  {
+    "rank_2016": 11,
+    "country": "Russia",
+    "airport": "Sheremetyevo International Airport",
+    "city_served": "Moscow",
+    "passengers_2015": "31,302,068",
+    "passengers_2016": "33,679,052",
+    "millions": 33,
+    "change_2015_2016": 0.076
+  },
+  {
+    "rank_2016": 12,
+    "country": "France",
+    "airport": "Orly Airport",
+    "city_served": "Paris",
+    "passengers_2015": "29,664,993",
+    "passengers_2016": "31,237,865",
+    "millions": 31,
+    "change_2015_2016": 0.053
+  },
+  {
+    "rank_2016": 13,
+    "country": "Denmark",
+    "airport": "Copenhagen Airport",
+    "city_served": "Copenhagen",
+    "passengers_2015": "26,610,332",
+    "passengers_2016": "29,043,287",
+    "millions": 29,
+    "change_2015_2016": 0.091
+  },
+  {
+    "rank_2016": 14,
+    "country": "Russia",
+    "airport": "Domodedovo International Airport",
+    "city_served": "Moscow",
+    "passengers_2015": "30,504,515",
+    "passengers_2016": "28,500,259",
+    "millions": 28,
+    "change_2015_2016": -0.066
+  },
+  {
+    "rank_2016": 15,
+    "country": "Ireland",
+    "airport": "Dublin Airport",
+    "city_served": "Dublin",
+    "passengers_2015": "25,049,319",
+    "passengers_2016": "27,907,384",
+    "millions": 27,
+    "change_2015_2016": 0.114
+  },
+  {
+    "rank_2016": 16,
+    "country": "Switzerland",
+    "airport": "Z�rich Airport",
+    "city_served": "Z�rich",
+    "passengers_2015": "26,281,228",
+    "passengers_2016": "27,666,428",
+    "millions": 27,
+    "change_2015_2016": 0.053
+  },
+  {
+    "rank_2016": 17,
+    "country": "Spain",
+    "airport": "Palma de Mallorca Airport",
+    "city_served": "Palma de Mallorca",
+    "passengers_2015": "23,745,023",
+    "passengers_2016": "26,253,882",
+    "millions": 26,
+    "change_2015_2016": 0.106
+  },
+  {
+    "rank_2016": 18,
+    "country": "Norway",
+    "airport": "Oslo Airport, Gardermoen",
+    "city_served": "Oslo",
+    "passengers_2015": "24,678,195",
+    "passengers_2016": "25,787,691",
+    "millions": 25,
+    "change_2015_2016": 0.045
+  },
+  {
+    "rank_2016": 19,
+    "country": "United Kingdom",
+    "airport": "Manchester Airport",
+    "city_served": "Manchester",
+    "passengers_2015": "23,136,047",
+    "passengers_2016": "25,637,054",
+    "millions": 25,
+    "change_2015_2016": 0.108
+  },
+  {
+    "rank_2016": 20,
+    "country": "Sweden",
+    "airport": "Stockholm Arlanda Airport",
+    "city_served": "Stockholm",
+    "passengers_2015": "23,142,536",
+    "passengers_2016": "24,682,466",
+    "millions": 24,
+    "change_2015_2016": 0.067
+  },
+  {
+    "rank_2016": 21,
+    "country": "United Kingdom",
+    "airport": "London Stansted Airport",
+    "city_served": "London",
+    "passengers_2015": "22,519,178",
+    "passengers_2016": "24,320,071",
+    "millions": 24,
+    "change_2015_2016": 0.08
+  },
+  {
+    "rank_2016": 22,
+    "country": "Germany",
+    "airport": "D�sseldorf Airport",
+    "city_served": "D�sseldorf",
+    "passengers_2015": "22,476,685",
+    "passengers_2016": "23,521,919",
+    "millions": 23,
+    "change_2015_2016": 0.047
+  },
+  {
+    "rank_2016": 23,
+    "country": "Austria",
+    "airport": "Vienna International Airport",
+    "city_served": "Vienna",
+    "passengers_2015": "22,775,054",
+    "passengers_2016": "23,352,016",
+    "millions": 23,
+    "change_2015_2016": 0.025
+  },
+  {
+    "rank_2016": 24,
+    "country": "Portugal",
+    "airport": "Lisbon Airport",
+    "city_served": "Lisbon",
+    "passengers_2015": "20,090,418",
+    "passengers_2016": "22,449,289",
+    "millions": 22,
+    "change_2015_2016": 0.117
+  },
+  {
+    "rank_2016": 25,
+    "country": "Belgium",
+    "airport": "Brussels Airport",
+    "city_served": "Brussels",
+    "passengers_2015": "23,460,018",
+    "passengers_2016": "21,818,418",
+    "millions": 21,
+    "change_2015_2016": -0.07
+  },
+  {
+    "rank_2016": 26,
+    "country": "Germany",
+    "airport": "Berlin Tegel Airport",
+    "city_served": "Berlin",
+    "passengers_2015": "21,005,196",
+    "passengers_2016": "21,253,959",
+    "millions": 21,
+    "change_2015_2016": 0.012
+  },
+  {
+    "rank_2016": 27,
+    "country": "Greece",
+    "airport": "Athens International Airport",
+    "city_served": "Athens",
+    "passengers_2015": "18,087,377",
+    "passengers_2016": "20,017,530",
+    "millions": 20,
+    "change_2015_2016": 0.107
+  },
+  {
+    "rank_2016": 28,
+    "country": "Italy",
+    "airport": "Malpensa Airport",
+    "city_served": "Milan",
+    "passengers_2015": "18,582,043",
+    "passengers_2016": "19,420,690",
+    "millions": 19,
+    "change_2015_2016": 0.045
+  },
+  {
+    "rank_2016": 29,
+    "country": "Finland",
+    "airport": "Helsinki Airport",
+    "city_served": "Helsinki",
+    "passengers_2015": "16,422,266",
+    "passengers_2016": "17,184,681",
+    "millions": 17,
+    "change_2015_2016": 0.046
+  },
+  {
+    "rank_2016": 30,
+    "country": "Spain",
+    "airport": "M�laga Airport",
+    "city_served": "M�laga",
+    "passengers_2015": "14,404,206",
+    "passengers_2016": "16,672,776",
+    "millions": 16,
+    "change_2015_2016": 0.157
+  },
+  {
+    "rank_2016": 31,
+    "country": "Switzerland",
+    "airport": "Geneva Airport",
+    "city_served": "Geneva",
+    "passengers_2015": "15,772,081",
+    "passengers_2016": "16,532,690",
+    "millions": 16,
+    "change_2015_2016": 0.048
+  },
+  {
+    "rank_2016": 32,
+    "country": "Germany",
+    "airport": "Hamburg Airport",
+    "city_served": "Hamburg",
+    "passengers_2015": "15,610,072",
+    "passengers_2016": "16,224,154",
+    "millions": 16,
+    "change_2015_2016": 0.039
+  },
+  {
+    "rank_2016": 33,
+    "country": "United Kingdom",
+    "airport": "Luton Airport",
+    "city_served": "London",
+    "passengers_2015": "12,263,505",
+    "passengers_2016": "14,551,774",
+    "millions": 14,
+    "change_2015_2016": 0.185
+  },
+  {
+    "rank_2016": 34,
+    "country": "Russia",
+    "airport": "Vnukovo International Airport",
+    "city_served": "Moscow",
+    "passengers_2015": "15,815,129",
+    "passengers_2016": "13,946,688",
+    "millions": 13,
+    "change_2015_2016": -0.118
+  },
+  {
+    "rank_2016": 35,
+    "country": "Russia",
+    "airport": "Pulkovo Airport",
+    "city_served": "Saint Petersburg",
+    "passengers_2015": "13,501,454",
+    "passengers_2016": "13,265,037",
+    "millions": 13,
+    "change_2015_2016": -0.018
+  },
+  {
+    "rank_2016": 36,
+    "country": "Czech Republic",
+    "airport": "V�clav Havel Airport Prague",
+    "city_served": "Prague",
+    "passengers_2015": "12,030,928",
+    "passengers_2016": "13,074,517",
+    "millions": 13,
+    "change_2015_2016": 0.087
+  },
+  {
+    "rank_2016": 37,
+    "country": "Poland",
+    "airport": "Warsaw Chopin Airport",
+    "city_served": "Warsaw",
+    "passengers_2015": "11,186,688",
+    "passengers_2016": "12,795,356",
+    "millions": 12,
+    "change_2015_2016": 0.144
+  },
+  {
+    "rank_2016": 38,
+    "country": "France",
+    "airport": "Nice C�te d'Azur Airport",
+    "city_served": "Nice",
+    "passengers_2015": "12,016,730",
+    "passengers_2016": "12,427,427",
+    "millions": 12,
+    "change_2015_2016": 0.034
+  },
+  {
+    "rank_2016": 39,
+    "country": "United Kingdom",
+    "airport": "Edinburgh Airport",
+    "city_served": "Edinburgh",
+    "passengers_2015": "11,114,587",
+    "passengers_2016": "12,348,425",
+    "millions": 12,
+    "change_2015_2016": 0.111
+  },
+  {
+    "rank_2016": 40,
+    "country": "Spain",
+    "airport": "Alicante Airport",
+    "city_served": "Alicante",
+    "passengers_2015": "10,575,288",
+    "passengers_2016": "12,344,945",
+    "millions": 12,
+    "change_2015_2016": 0.167
+  },
+  {
+    "rank_2016": 41,
+    "country": "Germany",
+    "airport": "Cologne Bonn Airport",
+    "city_served": "Cologne�/�Bonn",
+    "passengers_2015": "10,338,375",
+    "passengers_2016": "11,910,138",
+    "millions": 11,
+    "change_2015_2016": 0.152
+  },
+  {
+    "rank_2016": 42,
+    "country": "Germany",
+    "airport": "Berlin Sch�nefeld Airport",
+    "city_served": "Berlin",
+    "passengers_2015": "8,526,268",
+    "passengers_2016": "11,652,922",
+    "millions": 11,
+    "change_2015_2016": 0.367
+  },
+  {
+    "rank_2016": 43,
+    "country": "United Kingdom",
+    "airport": "Birmingham Airport",
+    "city_served": "Birmingham",
+    "passengers_2015": "10,187,122",
+    "passengers_2016": "11,645,334",
+    "millions": 11,
+    "change_2015_2016": 0.143
+  },
+  {
+    "rank_2016": 44,
+    "country": "Hungary",
+    "airport": "Budapest Ferenc Liszt International Airport",
+    "city_served": "Budapest",
+    "passengers_2015": "10,298,963",
+    "passengers_2016": "11,441,999",
+    "millions": 11,
+    "change_2015_2016": 0.111
+  },
+  {
+    "rank_2016": 45,
+    "country": "Italy",
+    "airport": "Orio al Serio International Airport",
+    "city_served": "Milan�/�Bergamo",
+    "passengers_2015": "10,404,625",
+    "passengers_2016": "11,159,631",
+    "millions": 11,
+    "change_2015_2016": 0.073
+  },
+  {
+    "rank_2016": 46,
+    "country": "Romania",
+    "airport": "Henri Coand%u0103 International Airport",
+    "city_served": "Bucharest",
+    "passengers_2015": "9,274,629",
+    "passengers_2016": "10,982,967",
+    "millions": 10,
+    "change_2015_2016": 0.183
+  },
+  {
+    "rank_2016": 47,
+    "country": "Germany",
+    "airport": "Stuttgart Airport",
+    "city_served": "Stuttgart",
+    "passengers_2015": "10,512,225",
+    "passengers_2016": "10,626,430",
+    "millions": 10,
+    "change_2015_2016": 0.011
+  },
+  {
+    "rank_2016": 48,
+    "country": "Italy",
+    "airport": "Linate Airport",
+    "city_served": "Milan",
+    "passengers_2015": "9,689,635",
+    "passengers_2016": "9,682,264",
+    "millions": 9,
+    "change_2015_2016": -0.001
+  },
+  {
+    "rank_2016": 49,
+    "country": "Italy",
+    "airport": "Venice Marco Polo Airport",
+    "city_served": "Venice",
+    "passengers_2015": "8,751,028",
+    "passengers_2016": "9,624,748",
+    "millions": 9,
+    "change_2015_2016": 0.1
+  },
+  {
+    "rank_2016": 50,
+    "country": "France",
+    "airport": "Lyon%u2013Saint-Exup�ry Airport",
+    "city_served": "Lyon",
+    "passengers_2015": "8,703,354",
+    "passengers_2016": "9,553,250",
+    "millions": 9,
+    "change_2015_2016": 0.098
+  }
+]

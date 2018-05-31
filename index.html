@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <link href="style.css" media="screen" rel="stylesheet" type="text/css">
+  <title>Interactive Information Visualization Project | Top 50 Busiest Airports in Europe</title>
+  <link rel="icon" type="image/png" href="./images/plane.png">
+</head>
+<body>
+
+	<header>
+		<h2>Interactive Information Visualization Project | The Top 50 Busiest Airports in Europe </h2>
+		
+	</header>
+	<nav>
+			<ul class="navigation">
+				<li><a href="javascript:swapDivs('viz1','viz2','viz3','viz4')">Busiest Airports</a></li>
+				<li><a href="javascript:swapDivs('viz2','viz1','viz3','viz4')">Changes 2016-2017</a></li>
+				<li><a href="javascript:swapDivs('viz3','viz1','viz2','viz4')">Changes 2015-2016</a></li>
+				<li><a href="javascript:swapDivs('viz4','viz1','viz2','viz3')">Passenger Numbers</a></li>
+			</ul>
+	</nav>
+	<div role="main" id="container">
+		
+		<div id="content">		
+			<div id="viz1" class="main">
+				<header>
+					<div class="introduction">
+						<h2>Top 50 Busiest Airports in Europe 2017</h2>
+						<p>The top 50 Airports in Europe, 2017 ranked by total passengers per year, 
+							including both terminal and transit passengers.
+							Hover over a bubble to read the name of the airport, the city served and the number of passengers for 2017 per airport.
+							The circle size is based on the number of passengers for the year 2017. Darker red circles represent airports with a greater increase rate.					
+						</p>
+					</div>
+				</header>
+				<div class="graph">
+					<div id="map"></div>
+				</div>				
+			</div>
+			<div id="viz2" class="main">									
+				<header>
+					<div class="introduction">
+						<h2>Changes 2016-2017</h2>
+						<p>This data correlates the airport rank to the passenger increase rate for the top 50
+								airports in Europe for the year 2017.
+								This chart plots airport rank along the X axis and the passenger increase or decrease rate along the Y axis.
+								The color and size of each bubble represent the number of passengers in 2017.
+								
+						</p>
+					</div>
+				</header>
+				<div class="graph">	
+					<div id="changes17"></div>				
+				</div>
+			</div>
+			<div id="viz3" class="main">
+				<header>
+					<div class="introduction">
+						<h2>Changes 2015-2016</h2>
+						<p>
+							This data correlates the airport rank to the passenger increase rate for the top 50
+							airports in Europe for the year 2016.
+							This chart plots airport rank along the X axis and the passenger increase or decrease rate along the Y axis.
+							The color and size of each bubble represent the number of passengers in 2016. 
+						</p>
+					</div>
+				</header>
+				<div class="graph">	
+					<div id="changes16"></div>				
+				</div>					
+			</div>
+			<div id="viz4" class="main">
+				<header>
+					<div class="introduction">
+						<h2>Number of Passengers Carried in 2017</h2>
+						<p>Each bubble represents an airport, color and size represent the number of passengers in 2017. <br />
+							Hover over a bubble to read the name of the airport, the city served and
+							last year's number of passengers. 
+						</p>
+					</div>
+				</header>
+				<div class="graph">	
+					<div id="numbers">
+						<svg width="1024" height="760">
+							<g transform="translate(50, 100)"></g>
+						</svg>						
+					</div>				
+				</div>	
+			</div>
+		</div>		
+	</div>
+
+	<!-- Footer -->
+		<footer>				
+				<div>
+					<ul class="menu">
+						<li>Interactive Information Visualization Project ¦ 2018</li>
+						<li>Borbely Sabina and Müller Jennifer</li>
+					</ul>
+					<ul class="menu">
+						<li>Sources: Busiest Airports in Europe -2016 and 2017 Statistics available on the<a href="https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Europe"> Wikipedia</a> website.</li>
+					</ul>
+				</div>
+		</footer>
+	
+	<script src='lib/d3.v4.js'></script>
+	<script src='lib/lodash.js'></script>
+	<script src='lib/topojson.js'></script>
+	<script src="lib/d3-scale-chromatic.v1.min.js"></script>
+	
+	<script src='src/eumap.js'></script>
+	<script src='src/changes16.js'></script>
+	<script src='src/changes17.js'></script>
+	<script src='src/numbers.js'></script>
+</body>
+</html>
+

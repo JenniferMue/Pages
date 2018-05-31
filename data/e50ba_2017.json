@@ -1,0 +1,702 @@
+[
+  {
+    "rank_2017": 1,
+    "country": "United Kingdom",
+    "airport": "Heathrow Airport",
+    "city_served": "London",
+    "passengers_2016": "75,711,130",
+    "passengers_2017": "78,047,278",
+    "millions": 78,
+    "change_2016_2017":0.03,
+    "coordinates": [
+                -0.4531566520633094,
+                51.47099587999384
+              ]
+  },
+  {
+    "rank_2017": 2,
+    "country": "France",
+    "airport": "Charles de Gaulle Airport",
+    "city_served": "Paris",
+    "passengers_2016": "65,933,145",
+    "passengers_2017": "69,471,442",
+    "millions": 69,
+    "change_2016_2017": 0.054,
+    "coordinates": [
+                2.5418677673945727,
+                49.01442009693855
+              ]
+  },
+  {
+    "rank_2017": 3,
+    "country": "Netherlands",
+    "airport": "Amsterdam Airport Schiphol",
+    "city_served": "Amsterdam",
+    "passengers_2016": "63,625,664",
+    "passengers_2017": "68,515,425",
+    "millions": 68,
+    "change_2016_2017": 0.077,
+     "coordinates": [
+                4.764376932328117,
+                52.30893238898217
+              ]
+  },
+  {
+    "rank_2017": 4,
+    "country": "Germany",
+    "airport": "Frankfurt Airport",
+    "city_served": "Frankfurt",
+    "passengers_2016": "60,786,937",
+    "passengers_2017": "64,500,386",
+    "millions": 64,
+    "change_2016_2017": 0.061,
+    "coordinates": [
+              8.571822869076076,
+              50.05067708952074
+            ]
+  },
+  {
+    "rank_2017": 5,
+    "country": "Turkey",
+    "airport": "Istanbul Atatürk Airport",
+    "city_served": "Istanbul",
+    "passengers_2016": "60,415,470",
+    "passengers_2017": "63,727,448",
+    "millions": 63,
+    "change_2016_2017": 0.055,
+    "coordinates": [
+            28.814599990799998,
+            40.9768981934
+          ]
+  },
+  {
+    "rank_2017": 6,
+    "country": "Spain",
+    "airport": "Adolfo Suárez Madrid-Barajas Airport",
+    "city_served": "Madrid",
+    "passengers_2016": "50,420,583",
+    "passengers_2017": "53,402,506",
+    "millions": 53,
+    "change_2016_2017": 0.059,
+    "coordinates": [
+              -3.569026654588628,
+              40.46812827339225
+            ]
+  },
+  {
+    "rank_2017": 7,
+    "country": "Spain",
+    "airport": "Barcelona El Prat Airport",
+    "city_served": "Barcelona",
+    "passengers_2016": "44,154,693",
+    "passengers_2017": "47,284,500",
+    "millions": 47,
+    "change_2016_2017": 0.071,
+    "coordinates": [
+                2.078003349812917,
+                41.30315527974634
+              ]
+  },
+  {
+    "rank_2017": 8,
+    "country": "United Kingdom",
+    "airport": "Gatwick Airport",
+    "city_served": "London",
+    "passengers_2016": "43,119,628",
+    "passengers_2017": "45,554,038",
+    "millions": 45,
+    "change_2016_2017": 0.056,
+    "coordinates": [
+            -0.19027799367904663,
+            51.148101806640625
+          ]
+  },
+  {
+    "rank_2017": 9,
+    "country": "Germany",
+    "airport": "Munich Airport",
+    "city_served": "Munich",
+    "passengers_2016": "42,261,309",
+    "passengers_2017": "44,594,516",
+    "millions": 44,
+    "change_2016_2017": 0.055,
+    "coordinates": [
+                11.788062719243687,
+                48.35383739616085
+              ]
+  },
+  {
+    "rank_2017": 10,
+    "country": "Italy",
+    "airport": "Leonardo da Vinci-Fiumicino Airport",
+    "city_served": "Rome",
+    "passengers_2016": "41,744,769",
+    "passengers_2017": "40,971,881",
+    "millions": 40,
+    "change_2016_2017": -0.019,
+     "coordinates": [
+              12.250100897363827,
+              41.795078630739425
+            ]
+  },
+  {
+    "rank_2017": 11,
+    "country": "Russia",
+    "airport": "Sheremetyevo International Airport",
+    "city_served": "Moscow",
+    "passengers_2016": "33,679,052",
+    "passengers_2017": "40,093,000",
+    "millions": 40,
+    "change_2016_2017": 0.19,
+    "coordinates": [
+                37.41596903484135,
+                55.96644717251199
+              ]
+  },
+  {
+    "rank_2017": 12,
+    "country": "France",
+    "airport": "Orly Airport",
+    "city_served": "Paris",
+    "passengers_2016": "31,237,865",
+    "passengers_2017": "32,042,475",
+    "millions": 32,
+    "change_2016_2017": 0.026,
+    "coordinates": [
+                2.367379127837731,
+                48.73130304580517
+              ]
+  },
+  {
+    "rank_2017": 13,
+    "country": "Russia",
+    "airport": "Domodedovo International Airport",
+    "city_served": "Moscow",
+    "passengers_2016": "28,500,259",
+    "passengers_2017": "30,700,000",
+    "millions": 30,
+    "change_2016_2017": 0.077,
+    "coordinates": [
+                55.40879821777344,
+                37.90629959106445
+              ]
+  },
+  {
+    "rank_2017": 14,
+    "country": "Ireland",
+    "airport": "Dublin Airport",
+    "city_served": "Dublin",
+    "passengers_2016": "27,907,384",
+    "passengers_2017": "29,582,321",
+    "millions": 29,
+    "change_2016_2017": 0.06,
+    "coordinates": [
+                -6.243884910371394,
+                53.42700828497004
+              ]
+  },
+  {
+    "rank_2017": 15,
+    "country": "Switzerland",
+    "airport": "Zürich Airport",
+    "city_served": "Zürich",
+    "passengers_2016": "27,666,428",
+    "passengers_2017": "29,396,094",
+    "millions": 29,
+    "change_2016_2017": 0.063,
+    "coordinates": [
+                8.562212795347646,
+                47.45238950649155
+              ]
+  },
+  {
+    "rank_2017": 16,
+    "country": "Denmark",
+    "airport": "Copenhagen Airport",
+    "city_served": "Copenhagen",
+    "passengers_2016": "29,043,287",
+    "passengers_2017": "29,177,833",
+    "millions": 29,
+    "change_2016_2017": 0.05,
+    "coordinates": [
+                12.64935086845077,
+                55.628501722152784
+              ]
+  },
+  {
+    "rank_2017": 17,
+    "country": "Spain",
+    "airport": "Palma de Mallorca Airport",
+    "city_served": "Palma de Mallorca",
+    "passengers_2016": "26,253,882",
+    "passengers_2017": "27,970,655",
+    "millions": 27,
+    "change_2016_2017": 0.065,
+    "coordinates": [
+                 2.73881006241,
+                 39.551700592
+              ]
+  },
+  {
+    "rank_2017": 18,
+    "country": "United Kingdom",
+    "airport": "Manchester Airport",
+    "city_served": "Manchester",
+    "passengers_2016": "25,637,054",
+    "passengers_2017": "27,901,708",
+    "millions": 27,
+    "change_2016_2017": 0.088,
+    "coordinates": [
+                 -2.2749500274658203,
+                 53.35369873046875
+              ]
+  },
+  {
+    "rank_2017": 19,
+    "country": "Norway",
+    "airport": "Oslo Airport, Gardermoen",
+    "city_served": "Oslo",
+    "passengers_2016": "25,787,691",
+    "passengers_2017": "27,482,315",
+    "millions": 27,
+    "change_2016_2017": 0.066,
+    "coordinates": [
+              11.099103276258118,
+              60.193578317138616
+            ]
+  },
+  {
+    "rank_2017": 20,
+    "country": "Portugal",
+    "airport": "Lisbon Airport",
+    "city_served": "Lisbon",
+    "passengers_2016": "22,449,289",
+    "passengers_2017": "26,669,755",
+    "millions": 26,
+    "change_2016_2017": 0.188,
+    "coordinates": [
+              -9.13591957092,
+              38.7812995911
+            ]
+  },
+  {
+    "rank_2017": 21,
+    "country": "Sweden",
+    "airport": "Stockholm Arlanda Airport",
+    "city_served": "Stockholm",
+    "passengers_2016": "24,682,466",
+    "passengers_2017": "26,642,034",
+    "millions": 26,
+    "change_2016_2017": 0.079,
+    "coordinates": [
+              17.930729901691585,
+              59.65112033973721
+            ]
+  },
+  {
+    "rank_2017": 22,
+    "country": "United Kingdom",
+    "airport": "London Stansted Airport",
+    "city_served": "London",
+    "passengers_2016": "24,320,071",
+    "passengers_2017": "25,904,573",
+    "millions": 25,
+    "change_2016_2017": 0.065,
+    "coordinates": [
+              51.8849983215,
+              0.234999999404
+            ]
+  },
+  {
+    "rank_2017": 23,
+    "country": "Belgium",
+    "airport": "Brussels Airport",
+    "city_served": "Brussels",
+    "passengers_2016": "21,818,418",
+    "passengers_2017": "24,783,911",
+    "millions": 24,
+    "change_2016_2017": 0.136,
+    "coordinates": [
+                4.454373629816502,
+                50.45712965495668
+              ]
+  },
+  {
+    "rank_2017": 24,
+    "country": "Germany",
+    "airport": "Düsseldorf Airport",
+    "city_served": "Düsseldorf",
+    "passengers_2016": "23,521,919",
+    "passengers_2017": "24,640,564",
+    "millions": 24,
+    "change_2016_2017": 0.048,
+    "coordinates": [
+                51.286998852,
+                6.7666636
+              ]
+  },
+  {
+    "rank_2017": 25,
+    "country": "Austria",
+    "airport": "Vienna International Airport",
+    "city_served": "Vienna",
+    "passengers_2016": "23,352,016",
+    "passengers_2017": "24,392,805",
+    "millions": 24,
+    "change_2016_2017": 0.045,
+    "coordinates": [
+            16.560767964212864,
+            48.119756305253766
+          ]
+  },
+  {
+    "rank_2017": 26,
+    "country": "Italy",
+    "airport": "Malpensa Airport",
+    "city_served": "Milan",
+    "passengers_2016": "19,420,690",
+    "passengers_2017": "22,169,167",
+    "millions": 22,
+    "change_2016_2017": 0.142,
+    "coordinates": [
+            8.72811,
+            45.6306
+          ]
+  },
+  {
+    "rank_2017": 27,
+    "country": "Greece",
+    "airport": "Athens International Airport",
+    "city_served": "Athens",
+    "passengers_2016": "20,017,530",
+    "passengers_2017": "21,737,787",
+    "millions": 21,
+    "change_2016_2017": 0.086,
+    "coordinates": [
+            23.94711605540731,
+            37.93623312992537
+          ]
+  },
+  {
+    "rank_2017": 28,
+    "country": "Germany",
+    "airport": "Berlin Tegel Airport",
+    "city_served": "Berlin",
+    "passengers_2016": "21,253,959",
+    "passengers_2017": "20,460,688",
+    "millions": 20,
+    "change_2016_2017": -0.037,
+    "coordinates": [
+                13.2903090925074,
+                52.55442870441009
+              ]
+  },
+  {
+    "rank_2017": 29,
+    "country": "Finland",
+    "airport": "Helsinki Airport",
+    "city_served": "Helsinki",
+    "passengers_2016": "17,184,681",
+    "passengers_2017": "18,892,386",
+    "millions": 18,
+    "change_2016_2017": 0.099,
+    "coordinates": [
+                24.968207866591406,
+                60.31871589129821
+              ]
+  },
+  {
+    "rank_2017": 30,
+    "country": "Spain",
+    "airport": "Málaga Airport",
+    "city_served": "Málaga",
+    "passengers_2016": "16,672,776",
+    "passengers_2017": "18,628,876",
+    "millions": 18,
+    "change_2016_2017": 0.117,
+    "coordinates": [
+                -4.499110221862793,
+                36.67490005493164
+              ]
+  },
+  {
+    "rank_2017": 31,
+    "country": "Russia",
+    "airport": "Vnukovo International Airport",
+    "city_served": "Moscow",
+    "passengers_2016": "13,946,688",
+    "passengers_2017": "18,139,000",
+    "millions": 18,
+    "change_2016_2017": 0.301,
+     "coordinates": [
+                55.5914993286,
+                37.2615013123
+              ]
+  },
+  {
+    "rank_2017": 32,
+    "country": "Germany",
+    "airport": "Hamburg Airport",
+    "city_served": "Hamburg",
+    "passengers_2016": "16,224,154",
+    "passengers_2017": "17,622,997",
+    "millions": 17,
+    "change_2016_2017": 0.086,
+    "coordinates": [
+                10.005647830925001,
+                53.63200116408658
+              ]
+  },
+  {
+    "rank_2017": 33,
+    "country": "Switzerland",
+    "airport": "Geneva Airport",
+    "city_served": "Geneva",
+    "passengers_2016": "16,532,690",
+    "passengers_2017": "17,351,816",
+    "millions": 17,
+    "change_2016_2017": 0.050,
+    "coordinates": [
+                6.108950138092041,
+                46.23809814453125
+              ]
+  },
+  {
+    "rank_2017": 34,
+    "country": "Russia",
+    "airport": "Pulkovo Airport",
+    "city_served": "Saint Petersburg",
+    "passengers_2016": "13,265,037",
+    "passengers_2017": "16,125,520",
+    "millions": 16,
+    "change_2016_2017": 0.216,
+    "coordinates": [
+                30.30709764546479,
+                59.805406160189726
+              ]
+  },
+  {
+    "rank_2017": 35,
+    "country": "United Kingdom",
+    "airport": "Luton Airport",
+    "city_served": "London",
+    "passengers_2016": "14,551,774",
+    "passengers_2017": "15,799,219",
+    "millions": 15,
+    "change_2016_2017": 0.086,
+    "coordinates": [
+                -0.36833301186561584,
+                51.874698638916016
+              ]
+  },
+  {
+    "rank_2017": 36,
+    "country": "Poland",
+    "airport": "Warsaw Chopin Airport",
+    "city_served": "Warsaw",
+    "passengers_2016": "12,795,356",
+    "passengers_2017": "15,752,000",
+    "millions": 15,
+    "change_2016_2017": 0.231,
+    "coordinates": [
+                20.97272633835865,
+                52.171026749259035
+              ]
+  },
+  {
+    "rank_2017": 37,
+    "country": "Czech Republic",
+    "airport": "Václav Havel Airport Prague",
+    "city_served": "Prague",
+    "passengers_2016": "13,074,517",
+    "passengers_2017": "15,415,001",
+    "millions": 15,
+    "change_2016_2017": 0.179,
+     "coordinates": [
+                14.26,
+                50.1008
+              ]
+  },
+  {
+    "rank_2017": 38,
+    "country": "Spain",
+    "airport": "Alicante Airport",
+    "city_served": "Alicante",
+    "passengers_2016": "12,344,945",
+    "passengers_2017": "13,713,061",
+    "millions": 13,
+    "change_2016_2017": 0.111,
+     "coordinates": [
+                -0.557224,
+                38.286831
+              ]
+  },
+  {
+    "rank_2017": 39,
+    "country": "United Kingdom",
+    "airport": "Edinburgh Airport",
+    "city_served": "Edinburgh",
+    "passengers_2016": "12,348,425",
+    "passengers_2017": "13,432,485",
+    "millions": 13,
+    "change_2016_2017": 0.088,
+    "coordinates": [
+               55.95000076293945,
+               -3.372499942779541
+              ]
+  },
+  {
+    "rank_2017": 40,
+    "country": "France",
+    "airport": "Nice Côte d'Azur Airport",
+    "city_served": "Nice",
+    "passengers_2016": "12,427,427",
+    "passengers_2017": "13,304,782",
+    "millions": 13,
+    "change_2016_2017": 0.071,
+    "coordinates": [
+               7.215869903560001,
+               43.6584014893
+              ]
+  },
+  {
+    "rank_2017": 41,
+    "country": "Hungary",
+    "airport": "Budapest Ferenc Liszt International Airport",
+    "city_served": "Budapest",
+    "passengers_2016": "11,441,999",
+    "passengers_2017": "13,097,239",
+    "millions": 13,
+    "change_2016_2017": 0.145,
+    "coordinates": [
+                19.26223016778808,
+                47.43327426924795
+              ]
+  },
+  {
+    "rank_2017": 42,
+    "country": "United Kingdom",
+    "airport": "Birmingham Airport",
+    "city_served": "Birmingham",
+    "passengers_2016": "11,645,334",
+    "passengers_2017": "12,983,436",
+    "millions": 12,
+    "change_2016_2017": 0.115,
+    "coordinates": [
+                -1.74802994728,
+                52.453899383499994
+              ]
+  },
+  {
+    "rank_2017": 43,
+    "country": "Germany",
+    "airport": "Berlin Sch%uFFFDnefeld Airport",
+    "city_served": "Berlin",
+    "passengers_2016": "11,652,922",
+    "passengers_2017": "12,865,315",
+    "millions": 12,
+    "change_2016_2017": 0.104,
+    "coordinates": [
+               13.522500038147,
+               52.380001068115
+              ]
+  },
+  {
+    "rank_2017": 44,
+    "country": "Romania",
+    "airport": "Henri Coanda International Airport",
+    "city_served": "Bucharest",
+    "passengers_2016": "10,982,967",
+    "passengers_2017": "12,804,191",
+    "millions": 12,
+    "change_2016_2017": 0.166,
+    "coordinates": [
+                26.084412,
+                44.570731
+              ]
+  },
+  {
+    "rank_2017": 45,
+    "country": "Germany",
+    "airport": "Cologne Bonn Airport",
+    "city_served": "Cologne%uFFFD/%uFFFDBonn",
+    "passengers_2016": "11,910,138",
+    "passengers_2017": "12,384,223",
+    "millions": 12,
+    "change_2016_2017": 0.04,
+    "coordinates": [
+                50.8658981323,
+                7.1427397728
+              ]
+  },
+  {
+    "rank_2017": 46,
+    "country": "Italy",
+    "airport": "Orio al Serio International Airport",
+    "city_served": "Milan%uFFFD/%uFFFDBergamo",
+    "passengers_2016": "11,159,631",
+    "passengers_2017": "12,336,137",
+    "millions": 12,
+    "change_2016_2017": 0.105,
+    "coordinates": [
+                9.70417,
+                45.673901
+              ]
+  },
+  {
+    "rank_2017": 47,
+    "country": "Germany",
+    "airport": "Stuttgart Airport",
+    "city_served": "Stuttgart",
+    "passengers_2016": "10,626,430",
+    "passengers_2017": "10,962,247",
+    "millions": 10,
+    "change_2016_2017": 0.032,
+    "coordinates": [
+                48.689899444599995,
+                9.22196006775
+              ]
+  },
+  {
+    "rank_2017": 48,
+    "country": "Portugal",
+    "airport": "Porto Airport",
+    "city_served": "Porto",
+    "passengers_2016": "9,378,082",
+    "passengers_2017": "10,787,000",
+    "millions": 10,
+    "change_2016_2017": 0.15,
+    "coordinates": [
+                -16.3500003815,
+                33.0733985901
+              ]
+  },
+  {
+    "rank_2017": 49,
+    "country": "Ukraine",
+    "airport": "Boryspil International Airport",
+    "city_served": "Kiev",
+    "passengers_2016": "8,650,000",
+    "passengers_2017": "10,554,757",
+    "millions": 10,
+    "change_2016_2017": 0.22,
+     "coordinates": [
+                30.894699096679688,
+                50.345001220703125
+              ]
+  },
+  {
+    "rank_2017": 50,
+    "country": "Italy",
+    "airport": "Venice Marco Polo Airport",
+    "city_served": "Venice",
+    "passengers_2016": "9,624,748",
+    "passengers_2017": "10,371,380",
+    "millions": 10,
+    "change_2016_2017": 0.078,
+    "coordinates": [
+                12.3519,
+                45.505299
+              ]
+  }
+]
